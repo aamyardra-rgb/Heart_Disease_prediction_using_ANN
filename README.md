@@ -1,2 +1,4 @@
-# Heart_Disease_prediction_using_ANN
-Heart Disease Prediction using Artificial Neural Networks (ANN) with machine learning techniques to classify patients based on clinical health parameters and predict the likelihood of heart disease.
+🫀 Heart_Disease_prediction_using_ANN
+A deep learning project that utilizes Artificial Neural Networks (ANN) to analyze medical attributes and accurately predict the presence of heart disease. Includes data preprocessing, feature engineering, model training, and performance evaluation.
+
+ Heart Disease Prediction using ANN | Deep Learning | Data Preprocessing | Visualization | Model Training & Evaluation | Healthcare Analytics | Python | TensorFlow /Keras
